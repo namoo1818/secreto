@@ -253,16 +253,15 @@ Secreto는 온라인 마니또 서비스입니다.
 
 > ![image](./img/12.패키지다이어그램.png)
 
-> 도메인 별로 패키지를 구분하려고 하였다. 하지만 req,res,dto의 경우
-> 도메인 별로 구분하지 않고 하나의 패키지에 모아서 처리하였다.
+> 도메인 기준으로 패키지를 구분하였다.
 > <br/>
 
 > <h3><font color="green">SNS 로그인 과정</font></h3>
-> <br/>
+> ![image](./img/SNS로그인.png)
 > <h3><font color="green">방 생성 과정</font></h3>
-> <br/>
+> ![image](./img/방생성및구성.png)
 > <h3><font color="green">히스토리 생성 과정</font></h3>
-> <br/>
+> ![image](./img/히스토리생성.png)
 
 ## 👨‍👦‍👦 Team Member
 > <h3><font color="red">Front-End</font></h3>
