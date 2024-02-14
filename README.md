@@ -257,11 +257,11 @@ Secreto는 온라인 마니또 서비스입니다.
 > <br/>
 
 > <h3><font color="green">SNS 로그인 과정</font></h3>
-> ![image](./img/SNS로그인.png)
+![image](./img/SNS로그인.png)
 > <h3><font color="green">방 생성 과정</font></h3>
-> ![image](./img/방생성및구성.png)
+![image](./img/방생성및구성.png)
 > <h3><font color="green">히스토리 생성 과정</font></h3>
-> ![image](./img/히스토리생성.png)
+![image](./img/히스토리생성.png)
 
 ## 👨‍👦‍👦 Team Member
 > <h3><font color="red">Front-End</font></h3>
