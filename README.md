@@ -34,7 +34,7 @@
 ## 📝 Design
 > <h3><font color="green">전체 기술 스택</font></h3>
 
-> ![image](./img/6.전체기술스택.png) > <br/>
+> ![image](./img/전체기술스택.png) > <br/>
 
 > <h3><font color="green">전체 시스템 구조</font></h3>
 
